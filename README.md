@@ -6,12 +6,14 @@ Web Development: MERN (MongoDB, Express, React, Node.js), PERN (PostgreSQL, Expr
 Programming Languages: C++, Java, JavaScript, Python
 Machine Learning & Gen AI: Data analysis, predictive modeling, generative AI applications
 App Development: Cross-platform mobile app design and deployment
+
 Project Highlights:
 
 Static_Analyser: Tool for code analysis and optimization
 Game_Management_System: Comprehensive platform for managing and tracking games
 FamilyMap: Interactive family tree visualization app
 CreateMyCV: Automated CV/resume generator
+
 I am always eager to take on new challenges, collaborate with diverse teams, and turn innovative ideas into impactful solutions. My approach blends technical expertise with a friendly, professional attitude and a genuine enthusiasm for learning and creativity.
 
 Let’s connect!
