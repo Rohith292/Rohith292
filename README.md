@@ -1,16 +1,19 @@
-## Hi there 👋
+As a passionate and creative software developer, I am currently in my 4th year at JSSATEB, pursuing a degree in Computer Science and Engineering. With hands-on experience across the full stack—including MERN and PERN stacks—I specialize in building scalable web applications, intuitive mobile apps, and innovative machine learning solutions.
 
-<!--
-**Rohith292/Rohith292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My technical toolkit includes:
 
-Here are some ideas to get you started:
+Web Development: MERN (MongoDB, Express, React, Node.js), PERN (PostgreSQL, Express, React, Node.js)
+Programming Languages: C++, Java, JavaScript, Python
+Machine Learning & Gen AI: Data analysis, predictive modeling, generative AI applications
+App Development: Cross-platform mobile app design and deployment
+Project Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Static_Analyser: Tool for code analysis and optimization
+Game_Management_System: Comprehensive platform for managing and tracking games
+FamilyMap: Interactive family tree visualization app
+CreateMyCV: Automated CV/resume generator
+I am always eager to take on new challenges, collaborate with diverse teams, and turn innovative ideas into impactful solutions. My approach blends technical expertise with a friendly, professional attitude and a genuine enthusiasm for learning and creativity.
+
+Let’s connect!
+LinkedIn: rohith-kumar-s-57850029b
+
